@@ -1,0 +1,10 @@
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
